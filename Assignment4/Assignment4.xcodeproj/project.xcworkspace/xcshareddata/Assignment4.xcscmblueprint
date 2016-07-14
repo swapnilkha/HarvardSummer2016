@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3212DAE0462DA4F622998BE3C98F42BB7D2CFD67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3212DAE0462DA4F622998BE3C98F42BB7D2CFD67" : 0,
+    "96B3ADA6A7BC85D04D6ABEF8D68A4046B756761C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F4987B0A-4F60-4031-BAAD-460626A3783B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3212DAE0462DA4F622998BE3C98F42BB7D2CFD67" : "SwapnilKha\/",
+    "96B3ADA6A7BC85D04D6ABEF8D68A4046B756761C" : "SwapnilKha\/Assignment3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Assignment4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment4\/Assignment4.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swapnilkha\/SwapnilKha.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3212DAE0462DA4F622998BE3C98F42BB7D2CFD67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/swapnilkha\/SwapnilKha",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96B3ADA6A7BC85D04D6ABEF8D68A4046B756761C"
+    }
+  ]
+}
