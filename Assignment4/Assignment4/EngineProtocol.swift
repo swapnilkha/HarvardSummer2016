@@ -9,13 +9,12 @@
 import Foundation
 protocol EngineProtocol
 {
-    var delegate: EngineDelegate {get set}
-    var grid: GridProtocol {get}
+    var delegate: EngineDelegate? {get set}
+    var grid: GridProtocol! {get}
     var refreshRate: Double {get}
-    var refreshTimer: NSTimer {get}
-    var rows: Int {get}
-    var cols: Int {get}
-    
-    init(rows: Int, cols: Int)
+    var refreshTimer: NSTimer? {get}
+    var rows: UInt {get}
+    var cols: UInt {get}
+    init(rows: UInt, cols: UInt)
     func step() -> GridProtocol
 }

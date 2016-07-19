@@ -9,11 +9,9 @@
 import UIKit
 protocol GridProtocol
 {
-    var rows: UInt {get set}
-    var cols: UInt {get set}
-    init(rows: Int, cols: Int)
-    
-    func neighbors(row:Int, col: Int) -> [(Int, Int)]
+    var rows: UInt {get}
+    var cols: UInt {get}
+    init(rows: UInt, cols: UInt)
+    func neighbors(row: Int, col: Int) -> [(Int, Int)]
     subscript(row: Int, col: Int) -> CellState? { get set }
-    
 }
